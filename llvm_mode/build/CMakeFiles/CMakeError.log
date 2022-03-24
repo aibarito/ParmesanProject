@@ -1,0 +1,17 @@
+Determining if the include file tirpc/rpc/xdr.h exists failed with the following output:
+Change Dir: /parmesan/llvm_mode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c1ccf/fast && /usr/bin/make -f CMakeFiles/cmTC_c1ccf.dir/build.make CMakeFiles/cmTC_c1ccf.dir/build
+make[1]: Entering directory '/parmesan/llvm_mode/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c1ccf.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_c1ccf.dir/CheckIncludeFile.c.o   -c /parmesan/llvm_mode/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/parmesan/llvm_mode/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: tirpc/rpc/xdr.h: No such file or directory
+    1 | #include <tirpc/rpc/xdr.h>
+      |          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_c1ccf.dir/build.make:66: CMakeFiles/cmTC_c1ccf.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/parmesan/llvm_mode/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_c1ccf/fast] Error 2
+
+
+

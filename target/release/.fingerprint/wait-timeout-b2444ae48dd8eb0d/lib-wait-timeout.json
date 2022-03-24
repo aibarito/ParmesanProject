@@ -1,0 +1,1 @@
+{"rustc":8848005237622537231,"features":"[]","target":10724380382934755326,"profile":4339006351771724982,"path":5013048620650711810,"deps":[[8629881092434741572,"libc",false,7050955255657843400]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/wait-timeout-b2444ae48dd8eb0d/dep-lib-wait-timeout"}}],"rustflags":[],"metadata":8839930952892980183,"config":0}
